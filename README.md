@@ -57,26 +57,11 @@ The dataset was obtained from Kaggle:
 
 The cleaned dataset contains **135,456 records** and is used for data analysis, visualizations, and forecasting.
 
-## How to Run the Dashboard
+## How to Explore the Dashboard
 
-1. Open a terminal inside the project folder.
-2. Navigate to the dashboard directory:
+Explore the interactive Riyadh Fly dashboard online:
 
-   ```bash
-   cd riyadh_fly_dashboard
-   ```
-
-3. Install the required libraries:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the dashboard:
-
-   ```bash
-   streamlit run app.py
-   ```
+[**Open Riyadh Fly Dashboard**](https://riyadh-fly.streamlit.app/)
 
 ## Author
 
